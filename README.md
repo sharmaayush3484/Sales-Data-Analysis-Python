@@ -1,5 +1,4 @@
 # Sales-Data-Analysis-Python
-# Sales Data Analysis using Python
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) on a sales dataset to extract meaningful business insights using Python.
